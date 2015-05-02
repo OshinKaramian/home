@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/okaramian/.pm2'
+let g:netrw_dirhist_2='/Users/okaramian/github/batch-player-publish-worker/artifacts/worker-69896'
+let g:netrw_dirhist_3='/Users/okaramian/github/topperharley/src/routes'
+let g:netrw_dirhist_4='/Users/okaramian/github'
+let g:netrw_dirhist_5='/Users/okaramian/github/topperharley/src'
+let g:netrw_dirhist_6='/Users/okaramian/github/aws-sqs-worker'
+let g:netrw_dirhist_7='/Users/okaramian/github/topperharley/src'
